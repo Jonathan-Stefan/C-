@@ -1,0 +1,11 @@
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\bin\Debug\MarcaVideos.exe.config
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\bin\Debug\MarcaVideos.exe
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\bin\Debug\MarcaVideos.pdb
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.csproj.AssemblyReference.cache
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.csproj.SuggestedBindingRedirects.cache
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.F_abaPesquisa.resources
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.Properties.Resources.resources
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.csproj.GenerateResource.cache
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.csproj.CoreCompileInputs.cache
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.exe
+E:\C#\Jonathan-Stefan\C-\Entrevista4I\MarcaVideos\obj\Debug\MarcaVideos.pdb
